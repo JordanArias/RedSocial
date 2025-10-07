@@ -35,9 +35,8 @@ RedSocial/
 ## ⚙️ Funcionalidades principales
 
 - Gestión de usuarios y perfiles personalizables
-- Creación, edición y eliminación de publicaciones
+- Creación y eliminación de publicaciones
 - Seguimiento y gestión de amigos/seguidores
-- Interacciones sociales: “me gusta” y comentarios
 - Mensajería privada entre usuarios
 - Feed personalizado con publicaciones de personas que sigo
 - Notificaciones de interacciones y mensajes nuevos
